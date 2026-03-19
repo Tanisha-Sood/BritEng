@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+python-dotenv
+langchain-core
+nltk
+flask
+streamlit
