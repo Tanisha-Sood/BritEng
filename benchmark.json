@@ -1,0 +1,50 @@
+[
+  {
+    "input": "She decorated her new apartment kitchen with purple accents to match the eggplant she loved cooking, while reading an article about how diet can influence estrogen levels.",
+    "expected": "She decorated her new flat kitchen with purple accents to match the aubergine she loved cooking, while reading an article about how diet can influence oestrogen levels."
+  },
+  {
+    "input": "The color of the neighbor's car was gray.",
+    "expected": "The colour of the neighbour's car was grey."
+  },
+  {
+    "input": "He realized that his favorite program was canceled due to bad weather.",
+    "expected": "He realised that his favourite programme was cancelled due to bad weather."
+  },
+  {
+    "input": "The theater is located in the center of the city.",
+    "expected": "The theatre is located in the centre of the city."
+  },
+  {
+    "input": "The traveler organized his itinerary before boarding the airplane.",
+    "expected": "The traveller organised his itinerary before boarding the aeroplane."
+  },
+  {
+    "input": "She analyzed the behavior of children in the school playground.",
+    "expected": "She analysed the behaviour of children in the school playground."
+  },
+  {
+    "input": "The check was honored by the bank without any issue.",
+    "expected": "The cheque was honoured by the bank without any issue."
+  },
+  {
+    "input": "He was very honored to receive the medal for his defense service.",
+    "expected": "He was very honoured to receive the medal for his defence service."
+  },
+  {
+    "input": "The organization plans to modernize the labor system next year.",
+    "expected": "The organisation plans to modernise the labour system next year."
+  },
+  {
+    "input": "She enrolled in a modeling class to improve her confidence.",
+    "expected": "She enrolled in a modelling class to improve her confidence."
+  },
+  {
+    "input": "He checked the tires of the car before traveling to the countryside.",
+    "expected": "He checked the tyres of the car before travelling to the countryside."
+  },
+  {
+    "input": "The jewelry store displayed beautiful necklaces made of silver.",
+    "expected": "The jewellery shop displayed beautiful necklaces made of silver."
+  }
+]
